@@ -1,0 +1,2331 @@
+                                   myME Box LMS -     
+
+                                                ====================================
+
+ : tim***@gmail.com, aye***@gmail.com
+Saturday, 1 August 2026, 9:30 AM |  
+
+    :  Level  >  Course  >  Cohort 
+(  )
+  :     All Time
+
+Level-2 () (5)
+
+ -   (L2 - Myanmar) (Avg: 0.38 %)
+
+Name             Cohort            Township         School            Progress
+YGNACR02         -                 Unknown          No School         0.97 %
+
+          Topic          P         A             C      M          L                  Total
+
+                    0%      0.05%            0%     0%         0%     0.05%
+
+                    0%      0.09%            0%     0%         0%     0.09%
+
+                    0%      0.05%            0%     0%         0%     0.05%
+
+                    0%      0.05%            0%     0%         0%     0.05%
+
+                    0%      0.06%            0%     0%         0%     0.06%
+
+                    0%      0.06%            0%     0%         0%     0.06%
+
+                    0%      0.09%            0%     0%         0%     0.09%
+
+   ( -)             0%      0.09%            0%     0%         0%     0.09%
+
+                    0%      0.05%            0%     0%         0%     0.05%
+
+                    0%      0.07%            0%     0%         0%     0.07%
+
+                    0%      0.04%            0%     0%         0%     0.04%
+
+                    0%      0.04%            0%     0%         0%     0.04%
+
+                    0%      0.04%            0%     0%         0%     0.04%
+
+ (-)                0%      0.18%            0%     0%         0%     0.18%
+
+Remaining Topics:   ,   (-),      -,    ,    ,   ,  
+(-),  (-),     -,  ,    ,  (-),   ( - ),  ,
+  ,    (-),  , Level 2   -   
+
+YGNCA001         -                 Unknown          No School         0.12 %
+    Topic                 P            A               C             M              L            Total
+
+                   0%          0.12%             0%           0%             0%        0.12%
+
+Remaining Topics:   ,   ,   ,   ,   ,  ,    ,    ( -),
+   (-),   -,   ,  ,   ,  ,    ,    ,
+ ,  (-),    (-),  -,  ,   ,   (-),    ( -
+),    ,   ,  ,   (-),   (-),   , Level 2  -   
+
+NF usr72           Gradebook Testers Unknown                      No School            0.05 %
+
+    Topic                 P            A               C             M              L            Total
+
+                   0%          0.05%             0%           0%             0%        0.05%
+
+Remaining Topics:  ,   ,  ,   ,  ,   ,    ,     (-),
+   ( -),   -,    ,   ,   ,    ,   ,   ,
+  ,   (-),   (-),  -,    ,  ,   (-),   ( -
+),    ,   ,    ,    (-),  (-),    , Level 2   -  
+
+ -  (L2 - Mathematics) (Avg: 2.07 %)
+
+Name                   Cohort             Township                School               Progress
+Nyein Hsu Zaw          -                  --                      --                   4.02 %
+
+Topic          P          A         C         M            L      Total
+
+()         0%      0.71%       0%         0%           0%         0.71%
+
+()         0%      0.71%       0%         0%           0%         0.71%
+
+()         0%      0.71%       0%         0%           0%         0.71%
+
+()         0%      0.2%        0%         0%           0%         0.2%
+
+()         0%      0.2%        0%         0%           0%         0.2%
+
+()         0%      0.71%       0%         0%           0%         0.71%
+
+()         0%      0.61%       0%         0%           0%         0.61%
+
+()         0%      0.14%       0%         0%           0%         0.14%
+
+Remaining Topics: , (), (), (), (), (), (), (), (), (), (), (), (), (), ()
+
+                       -                  Unknown                 No School            0.12 %
+
+    Topic          P                A               C             M              L               Total
+
+()             0%            0.12%        0%                  0%             0%        0.12%
+
+Remaining Topics:   , (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), ()
+Level-4 () (55)
+
+21st Century Facilitator (Avg: 27.41 %)
+
+Name                   Cohort            Township                  School           Progress
+Mg Ti La Moe                                                                        49.89 %
+                       L1-TE-21st CFT    Ban Nan Soi
+                       Pilot
+
+                Topic                          E                L      4                   Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 21.6%            0%         0%               21.6%
+
+technology
+
+Moodle LMS & NFE LMS course              0%             28.29%     0%               28.29%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+khu Phya Reh           L1-TE-21st CFT    Mae Hong Son              Mg Saw Phya Reh  49.82 %
+                       Pilot
+
+                Topic                              E            L      4                   Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 22.13%           0%         0%               22.13%
+
+technology
+
+Moodle LMS & NFE LMS course              0%             27.7%      0%               27.7%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+                       L1-TE-21st CFT                                               49.06 %
+                       Pilot
+
+                Topic                          E                L      4                   Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 23.45%           0%         0%               23.45%
+
+technology
+
+Moodle LMS & NFE LMS course              0%             25.61%     0%               25.61%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+KhuKhu Htan Ru         L1-TE-21st CFT    Men Howy Sone             Foundation for   49.03 %
+                       Pilot                                       Education and
+                                                                   Development
+                Topic                          E            L       4         Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 21.34%       0%         0%      21.34%
+
+technology
+
+Moodle LMS & NFE LMS course            0%           27.7%      0%      27.7%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+Maw Nga Mar            -                                               47.74 %
+
+                Topic                          E            L       4         Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 22.13%       0%         0%      22.13%
+
+technology
+
+Moodle LMS & NFE LMS course            0%           25.61%     0%      25.61%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+Htoo Eh Di Soe         L1-TE-21st CFT  Ban Noi Soi             FED     47.34 %
+                       Pilot
+
+                Topic                          E            L       4         Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 22.92%       0%         0%      22.92%
+
+technology
+
+Moodle LMS & NFE LMS course            0%           24.42%     0%      24.42%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+                       -                                               46.55 %
+
+                Topic                          E            L       4         Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 22.13%       0%         0%      22.13%
+
+technology
+
+Moodle LMS & NFE LMS course            0%           24.42%     0%      24.42%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+                       L1-TE-21st CFT                                  46.15 %
+                       Pilot
+                Topic                            E          L       4     Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 22.92%       0%         0%         22.92%
+
+technology
+
+Moodle LMS & NFE LMS course            0%           23.23%     0%         23.23%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+                       -                                                  46.11 %
+
+                Topic                            E          L       4     Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 23.18%       0%         0%         23.18%
+
+technology
+
+Moodle LMS & NFE LMS course            0%           22.93%     0%         22.93%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+Nyae Mar               L1-TE-21st CFT  Ban Nan Soi             FED        45.59 %
+                       Pilot
+
+                Topic                            E          L       4     Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 22.66%       0%         0%         22.66%
+
+technology
+
+Moodle LMS & NFE LMS course            0%           22.93%     0%         22.93%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+Naw Poe Po Shi         L1-TE-21st CFT  Thailand                No School  44.41 %
+                       Pilot
+
+                Topic                            E          L       4     Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 20.28%       0%         0%         20.28%
+
+technology
+
+Moodle LMS & NFE LMS course            0%           24.12%     0%         24.12%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+                    L1-TE-21st CFT                                        44.36 %
+                    Pilot
+
+             Topic                             E           L      4              Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 22.92%      0%         0%          22.92%
+
+technology
+
+Moodle LMS & NFE LMS course          0%            21.44%     0%          21.44%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+Alexander Par Reh -                  Mae Hong Son             Seh Taw Ro  43.94 %
+
+             Topic                             E           L      4              Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 21.6%       0%         0%          21.6%
+
+technology
+
+Moodle LMS & NFE LMS course          0%            22.34%     0%          22.34%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+Maw Mi Myar         -                Ban Noi Soi              Seh Taw Ro  43.47 %
+
+             Topic                             E           L      4              Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 22.92%      0%         0%          22.92%
+
+technology
+
+Moodle LMS & NFE LMS course          0%            20.55%     0%          20.55%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+Myar Moe            L1-TE-21st CFT   Thailand                 Myar Moe    43.04 %
+                    Pilot
+
+             Topic                             E           L      4              Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 21.6%       0%         0%          21.6%
+
+technology
+
+Moodle LMS & NFE LMS course          0%            21.44%     0%          21.44%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+Maw Bue Mar          L1-TE-21st CFT                                            42.65 %
+                     Pilot
+
+              Topic                            E          L       4            Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 20.02%     0%         0%      20.02%
+
+technology
+
+Moodle LMS & NFE LMS course          0%           22.63%     0%      22.63%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+Hla Chay Moe         L1-TE-21st CFT  Thailand                ULC               41.27 %
+                     Pilot
+
+              Topic                            E          L       4            Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 19.23%     0%         0%      19.23%
+
+technology
+
+Moodle LMS & NFE LMS course          0%           22.04%     0%      22.04%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+                     L1-TE-21st CFT                                            41.1 %
+                     Pilot
+
+              Topic                            E          L       4            Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 20.55%     0%         0%      20.55%
+
+technology
+
+Moodle LMS & NFE LMS course          0%           20.55%     0%      20.55%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+Hsaw Meh Marinar     L1-TE-21st CFT  Thailand                Hsaw Meh Marinar  40.99 %
+Phaw                 Pilot                                   Phaw
+            Topic                              E          L       4         Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 21.34%     0%         0%      21.34%
+
+technology
+
+Moodle LMS & NFE LMS course          0%           19.65%     0%      19.65%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+Jetkalin           L1-TE-21st CFT    Thiland                 ..      40.08 %
+                   Pilot
+
+            Topic                              E          L       4         Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 19.23%     0%         0%      19.23%
+
+technology
+
+Moodle LMS & NFE LMS course          0%           20.85%     0%      20.85%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+                   L1-TE-21st CFT                            Zwe     37.97 %
+                   Pilot
+
+            Topic                              E          L       4         Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 17.12%     0%         0%      17.12%
+
+technology
+
+Moodle LMS & NFE LMS course          0%           20.85%     0%      20.85%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+                   L1-TE-21st CFT                                    36.88 %
+                   Pilot
+
+            Topic                              E          L       4         Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 23.18%     0%         0%      23.18%
+
+technology
+
+Moodle LMS & NFE LMS course          0%           13.7%      0%      13.7%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+                   L1-TE-21st CFT                                   35.39 %
+                   Pilot
+
+            Topic                              E          L      4  Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 23.18%     0%         0%     23.18%
+
+technology
+
+Moodle LMS & NFE LMS course          0%           12.21%     0%     12.21%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+                   -                                         Women Study Progrom 35.03 %
+
+            Topic                              E          L      4  Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 23.71%     0%         0%     23.71%
+
+technology
+
+Moodle LMS & NFE LMS course          0%           11.32%     0%     11.32%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+                   L1-TE-21st CFT                                   30.16 %
+                   Pilot
+
+            Topic                              E          L      4  Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 17.65%     0%         0%     17.65%
+
+technology
+
+Moodle LMS & NFE LMS course          0%           12.51%     0%     12.51%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+                   L1-TE-21st CFT                                   29.17 %
+                   Pilot
+              Topic                            E                 L             4              Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 16.07%             0%            0%            16.07%
+
+technology
+
+Moodle LMS & NFE LMS course          0%                   13.1%         0%            13.1%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+Min Thant            NiYaMa          Monywa                         Principle School         27.76 %
+                     Facilitators
+
+              Topic                      E                L                 4                Total
+
+Moodle LMS & NFE LMS course          0%            7.74%            0%                7.74%
+structures and online curriculum
+
+4-Day Orientation Training on        0%            0%               20.02%            20.02%
+Blended Learning Using Moodle LMS.
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, Education 3.0 framework principles, concepts & objectives, and educational technology , 3IR (digital revolution) Concepts and
+Distributed Communication Infrastructure
+
+Khu emmanuel         L1-TE-21st CFT  Ban Noi Soi                    FED                      26.74 %
+                     Pilot
+
+              Topic                            E                 L             4              Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 11.85%          0%               0%            11.85%
+
+technology
+
+Moodle LMS & NFE LMS course          0%                14.89%           0%            14.89%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+                     L1-TE-21st CFT  Nai Soi                        Seh Taw Ro               26.73 %
+                     Pilot
+
+              Topic                            E                 L             4              Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 14.23%          0%               0%            14.23%
+
+technology
+
+Moodle LMS & NFE LMS course          0%                12.51%           0%            12.51%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+khu Baw Reh          -               Mae Hone son                                            25.94 %
+                 Topic                           E             L      4          Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 13.44%          0%         0%             13.44%
+
+technology
+
+Moodle LMS & NFE LMS course             0%             12.51%     0%             12.51%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+Saw Say Lar Mue         -               Nai Soi                   SehTawRo       24.63 %
+
+                 Topic                           E             L      4          Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 12.12%          0%         0%             12.12%
+
+technology
+
+Moodle LMS & NFE LMS course             0%             12.51%     0%             12.51%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+Leo Maw                 L1-TE-21st CFT  Mae Hong Song             Foundation of  24.36 %
+                        Pilot                                     Education and
+                                                                  development
+
+                 Topic                           E             L      4          Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 11.85%          0%         0%             11.85%
+
+technology
+
+Moodle LMS & NFE LMS course             0%             12.51%     0%             12.51%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+
+                        L1-TE-21st CFT                                           23.23 %
+                        Pilot
+
+                 Topic                              E          L      4                 Total
+
+Education 3.0 framework principles,
+
+concepts & objectives, and educational 13.7%           0%         0%             13.7%
+
+technology
+
+Moodle LMS & NFE LMS course             0%             9.53%      0%             9.53%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure, 4-Day Orientation Training on Blended
+Learning Using Moodle LMS.
+Ei Ei Nyein            NiYaMa        Monywa         Principle school          20.76 %
+                       Facilitators
+
+             Topic                   E           L          4                 Total
+
+4-Day Orientation Training on
+
+Blended Learning Using Moodle 0%             0%     20.76%            20.76%
+
+LMS.
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, Education 3.0 framework principles, concepts & objectives, and educational technology , Moodle LMS & NFE LMS course
+structures and online curriculum, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure
+
+Khaing Zin Htet        NiYaMa        Monywa         Principle School          20.76 %
+                       Facilitators
+
+             Topic                   E           L          4                 Total
+
+4-Day Orientation Training on
+
+Blended Learning Using Moodle 0%             0%     20.76%            20.76%
+
+LMS.
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, Education 3.0 framework principles, concepts & objectives, and educational technology , Moodle LMS & NFE LMS course
+structures and online curriculum, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure
+
+Nandar Lin             NiYaMa        Monywa         principle school          20.76 %
+                       Facilitators
+
+             Topic                   E           L          4                 Total
+
+4-Day Orientation Training on
+
+Blended Learning Using Moodle 0%             0%     20.76%            20.76%
+
+LMS.
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, Education 3.0 framework principles, concepts & objectives, and educational technology , Moodle LMS & NFE LMS course
+structures and online curriculum, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure
+
+AyeAyeAung             NiYaMa        Monywa         PrincipleSchool           20.39 %
+                       Facilitators
+
+             Topic                   E           L          4                 Total
+
+4-Day Orientation Training on
+
+Blended Learning Using Moodle 0%             0%     20.39%            20.39%
+
+LMS.
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, Education 3.0 framework principles, concepts & objectives, and educational technology , Moodle LMS & NFE LMS course
+structures and online curriculum, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure
+
+Ma Khaing Khaing Thin  NiYaMa                       Principle School          20.02 %
+                       Facilitators
+               Topic                E           L          4                 Total
+
+4-Day Orientation Training on
+
+Blended Learning Using Moodle 0%            0%     20.02%            20.02%
+
+LMS.
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, Education 3.0 framework principles, concepts & objectives, and educational technology , Moodle LMS & NFE LMS course
+structures and online curriculum, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure
+
+Zaw Moe Aung          NiYaMa        Monywa         Principle School          17.85 %
+                      Facilitators
+
+               Topic                E           L          4                 Total
+
+4-Day Orientation Training on
+
+Blended Learning Using Moodle 0%            0%     17.85%            17.85%
+
+LMS.
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, Education 3.0 framework principles, concepts & objectives, and educational technology , Moodle LMS & NFE LMS course
+structures and online curriculum, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure
+
+Zaw Htet              NiYaMa        Monywa         Principle School          17.48 %
+                      Facilitators
+
+               Topic                E           L          4                 Total
+
+4-Day Orientation Training on
+
+Blended Learning Using Moodle 0%            0%     17.48%            17.48%
+
+LMS.
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, Education 3.0 framework principles, concepts & objectives, and educational technology , Moodle LMS & NFE LMS course
+structures and online curriculum, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure
+
+Htay Htay Win         NiYaMa        Monywa         Principle School          16.93 %
+                      Facilitators
+
+               Topic                E           L          4                 Total
+
+4-Day Orientation Training on
+
+Blended Learning Using Moodle 0%            0%     16.93%            16.93%
+
+LMS.
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, Education 3.0 framework principles, concepts & objectives, and educational technology , Moodle LMS & NFE LMS course
+structures and online curriculum, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure
+
+Phyu Phyu Thin        NiYaMa        Monywa         Princlple School          15.91 %
+                      Facilitators
+           Topic                  E            L             4                 Total
+
+4-Day Orientation Training on
+
+Blended Learning Using Moodle 0%           0%        15.91%            15.91%
+
+LMS.
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, Education 3.0 framework principles, concepts & objectives, and educational technology , Moodle LMS & NFE LMS course
+structures and online curriculum, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure
+
+Arkar Soe         NiYaMa          monywa             principle                 11.12 %
+                  Facilitators
+
+           Topic                  E            L             4                 Total
+
+4-Day Orientation Training on
+
+Blended Learning Using Moodle 0%           0%        11.12%            11.12%
+
+LMS.
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, Education 3.0 framework principles, concepts & objectives, and educational technology , Moodle LMS & NFE LMS course
+structures and online curriculum, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure
+
+MyintMyintKhaing  NiYaMa          Monywa             Principle School          10.84 %
+                  Facilitators
+
+           Topic                  E            L             4                 Total
+
+4-Day Orientation Training on
+
+Blended Learning Using Moodle 0%           0%        10.84%            10.84%
+
+LMS.
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, Education 3.0 framework principles, concepts & objectives, and educational technology , Moodle LMS & NFE LMS course
+structures and online curriculum, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure
+
+myme_student_03 -                 Unknown            No School                 5.68 %
+
+           Topic                  E               L             4              Total
+
+4-Day Orientation Training on
+
+Blended Learning Using Moodle 0%           0%        5.68%             5.68%
+
+LMS.
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, Education 3.0 framework principles, concepts & objectives, and educational technology , Moodle LMS & NFE LMS course
+structures and online curriculum, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure
+
+Aung Swe Myint    NiYaMa          Monywa             B. E. H. S monywe_        4.08 %
+                  Facilitators                       kyemom
+                Topic                        E            L            4                 Total
+
+4-Day Orientation Training on
+
+Blended Learning Using Moodle 0%                   0%           4.08%             4.08%
+
+LMS.
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, Education 3.0 framework principles, concepts & objectives, and educational technology , Moodle LMS & NFE LMS course
+structures and online curriculum, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure
+
+kyaw htet aung         NiYaMa            Monywa                 Principle school         4.08 %
+                       Facilitators
+
+                Topic                        E            L            4                 Total
+
+4-Day Orientation Training on
+
+Blended Learning Using Moodle 0%                   0%           4.08%             4.08%
+
+LMS.
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, Education 3.0 framework principles, concepts & objectives, and educational technology , Moodle LMS & NFE LMS course
+structures and online curriculum, 3IR (digital revolution) Concepts and Distributed Communication Infrastructure
+
+Khaing Mar             -                                                                 1.79 %
+
+                Topic                        E               L            4              Total
+
+Moodle LMS & NFE LMS course          0%            1.79%        0%                1.79%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, Education 3.0 framework principles, concepts & objectives, and educational technology , 3IR (digital revolution) Concepts and
+Distributed Communication Infrastructure, 4-Day Orientation Training on Blended Learning Using Moodle LMS.
+
+Mary                   L1-TE-21st CFT    Thailand               Mary                     1.79 %
+                       Pilot
+
+                Topic                        E               L            4              Total
+
+Moodle LMS & NFE LMS course          0%            1.79%        0%                1.79%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, Education 3.0 framework principles, concepts & objectives, and educational technology , 3IR (digital revolution) Concepts and
+Distributed Communication Infrastructure, 4-Day Orientation Training on Blended Learning Using Moodle LMS.
+
+Matthia                L1-TE-21st CFT                           ()                       1.79 %
+                       Pilot
+
+                Topic                        E               L            4              Total
+
+Moodle LMS & NFE LMS course          0%            1.79%        0%                1.79%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, Education 3.0 framework principles, concepts & objectives, and educational technology , 3IR (digital revolution) Concepts and
+Distributed Communication Infrastructure, 4-Day Orientation Training on Blended Learning Using Moodle LMS.
+
+Nyein Hsu Zaw          -                 --                     --                       1.79 %
+            Topic                     E                L        4               Total
+
+Moodle LMS & NFE LMS course       0%            1.79%     0%       1.79%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, Education 3.0 framework principles, concepts & objectives, and educational technology , 3IR (digital revolution) Concepts and
+Distributed Communication Infrastructure, 4-Day Orientation Training on Blended Learning Using Moodle LMS.
+
+Oo Reh             L1-TE-21st CFT     PhangNga            ()                    1.79 %
+                   Pilot
+
+            Topic                     E                L        4               Total
+
+Moodle LMS & NFE LMS course       0%            1.79%     0%       1.79%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, Education 3.0 framework principles, concepts & objectives, and educational technology , 3IR (digital revolution) Concepts and
+Distributed Communication Infrastructure, 4-Day Orientation Training on Blended Learning Using Moodle LMS.
+
+presceller         L1-TE-21st CFT                         Diploma in Communuty  1.79 %
+                   Pilot                                  Devolopment
+
+            Topic                     E                L        4               Total
+
+Moodle LMS & NFE LMS course       0%            1.79%     0%       1.79%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, Education 3.0 framework principles, concepts & objectives, and educational technology , 3IR (digital revolution) Concepts and
+Distributed Communication Infrastructure, 4-Day Orientation Training on Blended Learning Using Moodle LMS.
+
+Thida Lin          -                                                            1.79 %
+
+            Topic                     E                L        4               Total
+
+Moodle LMS & NFE LMS course       0%            1.79%     0%       1.79%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, Education 3.0 framework principles, concepts & objectives, and educational technology , 3IR (digital revolution) Concepts and
+Distributed Communication Infrastructure, 4-Day Orientation Training on Blended Learning Using Moodle LMS.
+
+thuzarthin         -                                      myME                  1.79 %
+
+            Topic                     E                L        4               Total
+
+Moodle LMS & NFE LMS course       0%            1.79%     0%       1.79%
+structures and online curriculum
+
+Remaining Topics: Module (3) Teaching Methodology, 21st Century Skills (Learning Skills,Literacy Skills, Life Skills), Human-Centered
+Design (Design Thinking), Transformational & Adaptive Leadership , Facilitator & Facilitating Skills, Introduction to Raspberry Pi, RPi
+Workstation, Education 3.0 framework principles, concepts & objectives, and educational technology , 3IR (digital revolution) Concepts and
+Distributed Communication Infrastructure, 4-Day Orientation Training on Blended Learning Using Moodle LMS.
+Teacher Education & Training (37)
+
+Level-1 (Teacher Education - Primary) (Avg: 50.8 %)
+
+Name                   Cohort      Township              School  Progress
+Mg Ti La Moe                                                     72.82 %
+                       L1-TE-21st CFT Pilot Ban Nan Soi
+
+                Topic              T M Total
+
+Module (3) Teaching Methodology 0% 3.54% 8.32%
+
+Module (1) Introduction to Education 0% 0% 23.58%
+
+Module (2) Learning and Development 0% 0% 40.93%
+
+                       -                                         71.36 %
+
+                Topic              T M Total
+
+Module (3) Teaching Methodology 0% 4.49% 9.04%
+
+Module (1) Introduction to Education 0% 0% 24.94%
+
+Module (2) Learning and Development 0% 0% 37.4%
+
+Htoo Eh Di Soe         L1-TE-21st CFT Pilot Ban Noi Soi  FED     71.31 %
+
+                Topic              T M Total
+
+Module (3) Teaching Methodology 0% 2.45% 7.88%
+
+Module (1) Introduction to Education 0% 0% 23.97%
+
+Module (2) Learning and Development 0% 0% 39.46%
+
+                       L1-TE-21st CFT Pilot                      69.73 %
+
+                Topic              T M Total
+
+Module (3) Teaching Methodology 0% 3.81% 8.14%
+
+Module (1) Introduction to Education 0% 0% 23.66%
+
+Module (2) Learning and Development 0% 0% 37.94%
+
+                       L1-TE-21st CFT Pilot                      68.73 %
+
+                Topic              T M Total
+
+Module (3) Teaching Methodology 0% 1.9% 6.34%
+
+Module (1) Introduction to Education 0% 0% 23.07%
+
+Module (2) Learning and Development 0% 0% 39.32%
+
+Jetkalin               L1-TE-21st CFT Pilot Thiland      ..      68.49 %
+                Topic     T M Total
+
+Module (3) Teaching Methodology 0% 0.95% 5.18%
+
+Module (1) Introduction to Education 0% 0% 24.16%
+
+Module (2) Learning and Development 0% 0% 39.16%
+
+Maw Nga Mar            -                                                             67.33 %
+
+                Topic     T M Total
+
+Module (3) Teaching Methodology 0% 3.54% 7.24%
+
+Module (1) Introduction to Education 0% 0% 23.65%
+
+Module (2) Learning and Development 0% 0% 36.44%
+
+KhuKhu Htan Ru         L1-TE-21st CFT Pilot Men Howy Sone  Foundation for Education  66.76 %
+                                                           and Development
+
+                Topic     T M Total
+
+Module (3) Teaching Methodology 0% 2.99% 6.82%
+
+Module (1) Introduction to Education 0% 0% 23.86%
+
+Module (2) Learning and Development 0% 0% 36.07%
+
+Maw Bue Mar            L1-TE-21st CFT Pilot                                          66.14 %
+
+                Topic     T M Total
+
+Module (3) Teaching Methodology 0% 4.35% 8.9%
+
+Module (1) Introduction to Education 0% 0% 23.05%
+
+Module (2) Learning and Development 0% 0% 34.2%
+
+khu Phya Reh           L1-TE-21st CFT Pilot Mae Hong Son   Mg Saw Phya Reh           65.88 %
+
+                Topic     T M Total
+
+Module (3) Teaching Methodology 0% 3.67% 8.33%
+
+Module (1) Introduction to Education 0% 0% 23.56%
+
+Module (2) Learning and Development 0% 0% 33.99%
+
+Myar Moe               L1-TE-21st CFT Pilot Thailand       Myar Moe                  65.26 %
+
+                Topic     T M Total
+
+Module (3) Teaching Methodology 0% 3.13% 7.21%
+
+Module (1) Introduction to Education 0% 0% 22.65%
+
+Module (2) Learning and Development 0% 0% 35.41%
+
+Maw Mi Myar            -  Ban Noi Soi                      Seh Taw Ro                63.88 %
+                Topic  T M Total
+
+Module (3) Teaching Methodology 0% 3.94% 8.37%
+
+Module (1) Introduction to Education 0% 0% 22.26%
+
+Module (2) Learning and Development 0% 0% 33.24%
+
+                       L1-TE-21st CFT Pilot                      63.17 %
+                                                                 61.66 %
+                Topic  T M Total                                 61.43 %
+                                                                 61.3 %
+Module (3) Teaching Methodology 0% 1.5% 5.08%                    60.32 %
+                                                                 60.31 %
+Module (1) Introduction to Education 0% 0% 21.86%
+
+Module (2) Learning and Development 0% 0% 36.24%
+
+                       L1-TE-21st CFT Pilot           Zwe
+
+                Topic  T M Total
+
+Module (3) Teaching Methodology 0% 0.95% 4.86%
+
+Module (1) Introduction to Education 0% 0% 21.71%
+
+Module (2) Learning and Development 0% 0% 35.1%
+
+Naw Poe Po Shi         L1-TE-21st CFT Pilot Thailand  No School
+
+                Topic  T M Total
+
+Module (3) Teaching Methodology 0% 3.26% 7.36%
+
+Module (1) Introduction to Education 0% 0% 19.87%
+
+Module (2) Learning and Development 0% 0% 34.2%
+
+                       L1-TE-21st CFT Pilot           
+
+                Topic  T M Total
+
+Module (3) Teaching Methodology 0% 2.99% 7.11%
+
+Module (1) Introduction to Education 0% 0% 20.22%
+
+Module (2) Learning and Development 0% 0% 33.96%
+
+                       L1-TE-21st CFT Pilot           
+
+                Topic  T M Total
+
+Module (3) Teaching Methodology 0% 3.13% 6.74%
+
+Module (1) Introduction to Education 0% 0% 20.3%
+
+Module (2) Learning and Development 0% 0% 33.28%
+
+                       L1-TE-21st CFT Pilot           
+              Topic     T M Total
+
+Module (3) Teaching Methodology 0% 3.4% 8.33%
+
+Module (1) Introduction to Education 0% 0% 21.25%
+
+Module (2) Learning and Development 0% 0% 30.73%
+
+Hsaw Meh Marinar     L1-TE-21st CFT Pilot Thailand     Hsaw Meh Marinar Phaw 55.95 %
+Phaw
+
+              Topic     T M Total
+
+Module (3) Teaching Methodology 0% 1.9% 5.37%
+
+Module (1) Introduction to Education 0% 0% 20.09%
+
+Module (2) Learning and Development 0% 0% 30.49%
+
+Alexander Par Reh    -  Mae Hong Son                   Seh Taw Ro  55.5 %
+
+              Topic     T M Total
+
+Module (3) Teaching Methodology 0% 2.18% 6.12%
+
+Module (1) Introduction to Education 0% 0% 19.59%
+
+Module (2) Learning and Development 0% 0% 29.8%
+
+                     -                                             55.11 %
+
+              Topic     T M Total
+
+Module (3) Teaching Methodology 0% 1.09% 5.18%
+
+Module (1) Introduction to Education 0% 0% 18.82%
+
+Module (2) Learning and Development 0% 0% 31.11%
+
+Nyae Mar             L1-TE-21st CFT Pilot Ban Nan Soi  FED         54.21 %
+
+              Topic     T M Total
+
+Module (3) Teaching Methodology 0% 3.4% 7.02%
+
+Module (1) Introduction to Education 0% 0% 20.22%
+
+Module (2) Learning and Development 0% 0% 26.97%
+
+Hla Chay Moe         L1-TE-21st CFT Pilot Thailand     ULC         52.62 %
+
+              Topic     T M Total
+
+Module (3) Teaching Methodology 0% 2.45% 6.68%
+
+Module (1) Introduction to Education 0% 0% 17.61%
+
+Module (2) Learning and Development 0% 0% 28.33%
+
+                     L1-TE-21st CFT Pilot                          51.98 %
+             Topic     T M Total
+
+Module (3) Teaching Methodology 0% 2.86% 6.83%
+
+Module (1) Introduction to Education 0% 0% 18.48%
+
+Module (2) Learning and Development 0% 0% 26.69%
+
+                    L1-TE-21st CFT Pilot                                         51.91 %
+
+             Topic     T M Total
+
+Module (3) Teaching Methodology 0% 4.08% 7.23%
+
+Module (1) Introduction to Education 0% 0% 18.24%
+
+Module (2) Learning and Development 0% 0% 26.45%
+
+                    -                                   Women Study Progrom      43.88 %
+
+             Topic     T M Total
+
+Module (3) Teaching Methodology 0% 1.36% 3.93%
+
+Module (1) Introduction to Education 0% 0% 16.98%
+
+Module (2) Learning and Development 0% 0% 22.97%
+
+Thida Lin           -                                                            43.81 %
+
+             Topic     T M Total
+
+Module (3) Teaching Methodology 0% 1.9% 3.72%
+
+Module (1) Introduction to Education 0% 0% 18.05%
+
+Module (2) Learning and Development 0% 0% 22.02%
+
+Leo Maw             L1-TE-21st CFT Pilot Mae Hong Song  Foundation of Education  42.28 %
+                                                        and development
+
+             Topic     T M Total
+
+Module (3) Teaching Methodology 0% 0.27% 3.2%
+
+Module (1) Introduction to Education 0% 0% 16.1%
+
+Module (2) Learning and Development 0% 0% 22.98%
+
+khu Baw Reh         -  Mae Hone son                                              38.51 %
+
+             Topic     T M Total
+
+Module (3) Teaching Methodology 0% 0.82% 3.16%
+
+Module (1) Introduction to Education 0% 0% 17.31%
+
+Module (2) Learning and Development 0% 0% 18.05%
+
+                    L1-TE-21st CFT Pilot                                         36.84 %
+              Topic  T M Total
+
+Module (3) Teaching Methodology 0% 2.45% 5.02%
+
+Module (1) Introduction to Education 0% 0% 12.09%
+
+Module (2) Learning and Development 0% 0% 19.73%
+
+Mary                 L1-TE-21st CFT Pilot Thailand     Mary                  25.48 %
+
+              Topic  T M Total
+
+Module (3) Teaching Methodology 0% 0% 1.31%
+
+Module (1) Introduction to Education 0% 0% 11.13%
+
+Module (2) Learning and Development 0% 0% 13.05%
+
+                     L1-TE-21st CFT Pilot Nai Soi      Seh Taw Ro            22.79 %
+
+              Topic  T M Total
+
+Module (3) Teaching Methodology 0% 0.27% 1.22%
+
+Module (1) Introduction to Education 0% 0% 8%
+
+Module (2) Learning and Development 0% 0% 13.56%
+
+Matthia              L1-TE-21st CFT Pilot              ()                    21.41 %
+
+              Topic  T M Total
+
+Module (3) Teaching Methodology 0% 0% 1.49%
+
+Module (1) Introduction to Education 0% 0% 7.41%
+
+Module (2) Learning and Development 0% 0% 12.51%
+
+Khu emmanuel         L1-TE-21st CFT Pilot Ban Noi Soi  FED                   17.14 %
+
+              Topic  T M Total
+
+Module (3) Teaching Methodology 0% 0% 1.61%
+
+Module (1) Introduction to Education 0% 0% 6.55%
+
+Module (2) Learning and Development 0% 0% 8.99%
+
+presceller           L1-TE-21st CFT Pilot              Diploma in Communuty  13.54 %
+                                                       Devolopment
+
+              Topic  T M Total
+
+Module (3) Teaching Methodology 0% 0% 1.31%
+
+Module (1) Introduction to Education 0% 0% 8.29%
+
+Module (2) Learning and Development 0% 0% 3.94%
+
+Oo Reh               L1-TE-21st CFT Pilot PhangNga     ()                    9.22 %
+             Topic                   T M Total
+
+Module (3) Teaching Methodology 0% 0% 0.65%
+
+Module (1) Introduction to Education 0% 0% 2.86%
+
+Module (2) Learning and Development 0% 0% 5.71%
+
+Maw Neh Meh         -                                                                    ..  1.63 %
+
+             Topic                                T  M   Total
+
+Module (2) Learning and Development  0%              0%  1.63%
+
+Remaining Topics: Module (3) Teaching Methodology, Module (1) Introduction to Education
+
+  (69)
+
+Basic Course (With Questionnaire) (Avg: 13.52 %)
+
+Name         Cohort    Township School Progress
+NF usr73
+             Gradebook Testers Unknown No School 100 %
+
+Topic P      A         C M L Total
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 10% 0% 16.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 10% 0% 16.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 30% 36.25%
+
+NF usr72     Gradebook Testers Unknown No School 92.5 %
+Topic P   A  C M L Total
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 10% 0% 16.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 10% 0% 16.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 22.5% 28.75%
+
+NF usr71  Gradebook Testers Unknown No School 82 %
+
+Topic P   A  C M L Total
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 10% 0% 16.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 10% 0% 16.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 12% 18.25%
+
+NF usr69  Gradebook Testers Unknown No School 62.5 %
+
+Topic P   A  C M L Total
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 10% 0% 16.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 10% 0% 16.25%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+NF usr83  Gradebook Testers Unknown No School 62.13 %
+Topic P A     C M L Total
+
+() 0% 1.25% 2.25% 0% 0% 3.5%
+
+() 0% 1.25% 2.63% 0% 0% 3.88%
+
+() 0% 1.25% 2.25% 6% 0% 9.5%
+
+() 0% 1.25% 2.25% 0% 0% 3.5%
+
+() 0% 1.25% 3% 0% 0% 4.25%
+
+() 0% 1.25% 2.63% 6% 0% 9.88%
+
+() 0% 1.25% 2.25% 0% 0% 3.5%
+
+() 0% 1.25% 1.88% 0% 21% 24.13%
+
+NF usr70   Gradebook Testers Unknown No School 60 %
+
+Topic P    A  C M L Total
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 10% 0% 16.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 6% 0% 12.25%
+
+() 1.25% 1.25% 1.5% 0% 0% 4%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+NF usr68   Gradebook Testers Unknown No School 50 %
+
+Topic P    A  C M L Total
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+NF usr66   Gradebook Testers Unknown No School 36.88 %
+Topic P    A              C M L Total
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 1.88% 0% 0% 4.38%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+NF usr82   Gradebook Testers Unknown No School 34.13 %
+
+Topic P A                 C M L Total
+
+() 0% 1.25% 2.25% 0% 0% 3.5%
+
+() 0% 1.25% 3% 0% 0% 4.25%
+
+() 0% 1.25% 2.25% 5% 0% 8.5%
+
+() 0% 1.25% 1.88% 0% 0% 3.13%
+
+() 0% 1.25% 2.63% 0% 0% 3.88%
+
+() 0% 1.25% 1.88% 0% 0% 3.13%
+
+() 0% 1.25% 2.25% 0% 0% 3.5%
+
+() 0% 1.25% 3% 0% 0% 4.25%
+
+NF usr81   Gradebook Testers Unknown No School 31.13 %
+
+Topic P A                 C M L Total
+
+() 0% 1.25% 1.88% 0% 0% 3.13%
+
+() 0% 1.25% 0.75% 0% 0% 2%
+
+() 0% 1.25% 2.25% 7% 0% 10.5%
+
+() 0% 1.25% 2.63% 0% 0% 3.88%
+
+() 0% 1.25% 2.25% 0% 0% 3.5%
+
+() 0% 1.25% 1.88% 5% 0% 8.13%
+
+Remaining Topics: (), ()
+
+NF usr67   Gradebook Testers Unknown No School 24.75 %
+Topic P   A  C M L Total
+
+() 1.25% 1.25% 1.88% 0% 0% 4.38%
+
+() 1.25% 1.25% 3% 0% 0% 5.5%
+
+() 1.25% 1.25% 1.13% 0% 0% 3.63%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 0% 0% 0% 0% 1.25%
+
+() 1.25% 0% 0% 0% 0% 1.25%
+
+() 1.25% 0% 0% 0% 0% 1.25%
+
+() 1.25% 0% 0% 0% 0% 1.25%
+
+NF usr65  Gradebook Testers Unknown No School 23.75 %
+
+Topic P   A  C M L Total
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+NF usr63  Gradebook Testers Unknown No School 20 %
+
+Topic P   A C M L Total
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+NF usr62  Gradebook Testers Unknown No School 17.5 %
+Topic P    A C M L Total
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 0% 0% 0% 0% 1.25%
+
+() 1.25% 0% 0% 0% 0% 1.25%
+
+NF usr64   Gradebook Testers Unknown No School 17.5 %
+
+Topic P    A  C M L Total
+
+() 1.25% 1.25% 3.75% 0% 0% 6.25%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+NF usr79   Gradebook Testers Unknown No School 16 %
+
+Topic P A     C M L Total
+
+() 0% 1.25% 1.5% 0% 0% 2.75%
+
+() 0% 1.25% 1.5% 0% 0% 2.75%
+
+() 0% 1.25% 2.25% 7% 0% 10.5%
+
+Remaining Topics: (), (), (), (), ()
+
+NF usr60   Gradebook Testers Unknown No School 15 %
+Topic P   A C M L Total
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+NF usr57  Gradebook Testers Unknown No School 12.5 %
+
+Topic P   A C M L Total
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+NF usr61  Gradebook Testers Unknown No School 12.5 %
+
+Topic P   A C M L Total
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 0% 0% 0% 0% 1.25%
+
+() 1.25% 0% 0% 0% 0% 1.25%
+
+() 1.25% 0% 0% 0% 0% 1.25%
+
+() 1.25% 0% 0% 0% 0% 1.25%
+
+() 1.25% 0% 0% 0% 0% 1.25%
+
+() 1.25% 0% 0% 0% 0% 1.25%
+
+NF usr53  Gradebook Testers Unknown No School 10 %
+Topic P A C M L Total
+() 0% 1.25% 0% 0% 0% 1.25%
+() 0% 1.25% 0% 0% 0% 1.25%
+() 0% 1.25% 0% 0% 0% 1.25%
+() 0% 1.25% 0% 0% 0% 1.25%
+() 0% 1.25% 0% 0% 0% 1.25%
+() 0% 1.25% 0% 0% 0% 1.25%
+() 0% 1.25% 0% 0% 0% 1.25%
+() 0% 1.25% 0% 0% 0% 1.25%
+
+NF usr59   Gradebook Testers Unknown No School 10 %
+
+Topic P    A C M L Total
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+Remaining Topics: (), (), (), ()
+
+myme_student_03 -                     Unknown No School 9.46 %
+
+Topic P    A       C M L Total
+
+() 1.25% 1.25% 1.5% 0% 0% 4%
+
+() 0.75% 0.83% 0% 0% 0% 1.58%
+
+() 0% 1.25% 2.63% 0% 0% 3.88%
+
+Remaining Topics: (), (), (), (), ()
+
+NF usr78   Gradebook Testers Unknown No School 9.38 %
+
+Topic P A          C M L Total
+
+() 0% 1.25% 1.88% 0% 0% 3.13%
+
+() 0% 1.25% 1.88% 0% 0% 3.13%
+
+() 0% 1.25% 1.88% 0% 0% 3.13%
+
+Remaining Topics: (), (), (), (), ()
+
+NF usr52   Gradebook Testers Unknown No School 9 %
+Topic P A C M L Total
+() 0% 1.25% 0% 0% 0% 1.25%
+() 0% 1.25% 0% 0% 0% 1.25%
+() 0% 1.25% 0% 0% 0% 1.25%
+() 0% 1.25% 0% 0% 0% 1.25%
+() 0% 1.25% 0% 0% 0% 1.25%
+() 0% 1.25% 0% 0% 0% 1.25%
+() 0% 1.25% 0% 0% 0% 1.25%
+() 0% 0.25% 0% 0% 0% 0.25%
+
+NF usr77   Gradebook Testers Unknown No School 8.21 %
+
+Topic P A  C M L Total
+
+() 0% 1.25% 2.63% 0% 0% 3.88%
+
+() 0% 0.83% 0% 0% 0% 0.83%
+
+() 0% 1.25% 2.25% 0% 0% 3.5%
+
+Remaining Topics: (), (), (), (), ()
+
+NF usr51   Gradebook Testers Unknown No School 8 %
+
+Topic P A C M L Total
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+NF usr56   Gradebook Testers Unknown No School 7.5 %
+
+Topic P    A C M L Total
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 1.25% 1.25% 0% 0% 0% 2.5%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+Remaining Topics: (), (), (), ()
+
+NF usr58   Gradebook Testers Unknown No School 7.11 %
+Topic P   A C M L Total
+
+() 1.25% 1.07% 0% 0% 0% 2.32%
+
+() 1.25% 1.04% 0% 0% 0% 2.29%
+
+() 1.25% 0% 0% 0% 0% 1.25%
+
+() 1.25% 0% 0% 0% 0% 1.25%
+
+Remaining Topics: (), (), (), ()
+
+NF usr50  Gradebook Testers Unknown No School 7 %
+
+Topic P A C M L Total
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+NF usr55  Gradebook Testers Unknown No School 6.61 %
+
+Topic P   A C M L Total
+
+() 1.25% 1.07% 0% 0% 0% 2.32%
+
+() 1.25% 1.04% 0% 0% 0% 2.29%
+
+() 0% 1% 0% 0% 0% 1%
+
+() 0% 1% 0% 0% 0% 1%
+
+Remaining Topics: (), (), (), ()
+
+NF usr54  Gradebook Testers Unknown No School 3.36 %
+
+Topic P   A C M L Total
+
+() 1.25% 1.07% 0% 0% 0% 2.32%
+
+() 0% 1.04% 0% 0% 0% 1.04%
+
+Remaining Topics: (), (), (), (), (), ()
+
+NF usr49  Gradebook Testers Unknown No School 2.89 %
+Topic P A C M L Total
+() 0% 0.18% 0% 0% 0% 0.18%
+() 0% 0.21% 0% 0% 0% 0.21%
+() 0% 0.25% 0% 0% 0% 0.25%
+() 0% 0.25% 0% 0% 0% 0.25%
+() 0% 0.25% 0% 0% 0% 0.25%
+() 0% 0.25% 0% 0% 0% 0.25%
+() 0% 0.25% 0% 0% 0% 0.25%
+() 0% 1.25% 0% 0% 0% 1.25%
+
+NF usr47  Gradebook Testers Unknown No School 2.64 %
+
+Topic P A C M L Total
+
+() 0% 0.18% 0% 0% 0% 0.18%
+
+() 0% 0.21% 0% 0% 0% 0.21%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+Remaining Topics: ()
+
+NF usr46  Gradebook Testers Unknown No School 2.39 %
+
+Topic P A C M L Total
+
+() 0% 0.18% 0% 0% 0% 0.18%
+
+() 0% 0.21% 0% 0% 0% 0.21%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+Remaining Topics: (), ()
+
+NF usr45  Gradebook Testers Unknown No School 2.14 %
+Topic P A C M L Total
+() 0% 0.18% 0% 0% 0% 0.18%
+() 0% 0.21% 0% 0% 0% 0.21%
+() 0% 0.25% 0% 0% 0% 0.25%
+() 0% 0.25% 0% 0% 0% 0.25%
+() 0% 0.25% 0% 0% 0% 0.25%
+() 0% 1% 0% 0% 0% 1%
+
+Remaining Topics: (), ()
+
+NF usr41  Gradebook Testers Unknown No School 1.89 %
+
+Topic P A C M L Total
+
+() 0% 0.18% 0% 0% 0% 0.18%
+
+() 0% 0.21% 0% 0% 0% 0.21%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+Remaining Topics: (), (), (), ()
+
+NF usr48  Gradebook Testers Unknown No School 1.89 %
+
+Topic P A C M L Total
+
+() 0% 0.18% 0% 0% 0% 0.18%
+
+() 0% 0.21% 0% 0% 0% 0.21%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+NF usr39  Gradebook Testers Unknown No School 1.64 %
+
+Topic P A C M L Total
+
+() 0% 0.18% 0% 0% 0% 0.18%
+
+() 0% 0.21% 0% 0% 0% 0.21%
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+Remaining Topics: (), (), (), (), ()
+
+NF usr40  Gradebook Testers Unknown No School 1.64 %
+Topic P A C M L Total
+() 0% 0.18% 0% 0% 0% 0.18%
+() 0% 0.21% 0% 0% 0% 0.21%
+() 0% 0.25% 0% 0% 0% 0.25%
+() 0% 1% 0% 0% 0% 1%
+
+Remaining Topics: (), (), (), ()
+
+NF usr43  Gradebook Testers Unknown No School 1.39 %
+
+Topic P A C M L Total
+
+() 0% 0.18% 0% 0% 0% 0.18%
+
+() 0% 0.21% 0% 0% 0% 0.21%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+() 0% 0.5% 0% 0% 0% 0.5%
+
+Remaining Topics: (), (), ()
+
+NF usr44  Gradebook Testers Unknown No School 1.39 %
+
+Topic P A C M L Total
+
+() 0% 0.18% 0% 0% 0% 0.18%
+
+() 0% 0.21% 0% 0% 0% 0.21%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+Remaining Topics: (), ()
+
+usr86     -                   Unknown No School 1.25 %
+
+Topic P A C M L Total
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+Remaining Topics: (), (), (), (), (), (), ()
+
+NF usr29  Gradebook Testers Unknown No School 1.25 %
+
+Topic P A C M L Total
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+Remaining Topics: (), (), (), (), (), (), ()
+
+NF usr34  Gradebook Testers Unknown No School 1.25 %
+Topic P A C M L Total
+() 0% 1.25% 0% 0% 0% 1.25%
+
+Remaining Topics: (), (), (), (), (), (), ()
+
+NF usr75  Gradebook Testers Unknown No School 1.25 %
+
+Topic P A C M L Total
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+Remaining Topics: (), (), (), (), (), (), ()
+
+NF usr76  Gradebook Testers Unknown No School 1.25 %
+
+Topic P A C M L Total
+
+() 0% 1.25% 0% 0% 0% 1.25%
+
+Remaining Topics: (), (), (), (), (), (), ()
+
+NF usr37  Gradebook Testers Unknown No School 1.22 %
+
+Topic P A C M L Total
+
+() 0% 0.18% 0% 0% 0% 0.18%
+
+() 0% 1.04% 0% 0% 0% 1.04%
+
+Remaining Topics: (), (), (), (), (), ()
+
+NF usr42  Gradebook Testers Unknown No School 1.14 %
+
+Topic P A C M L Total
+
+() 0% 0.18% 0% 0% 0% 0.18%
+
+() 0% 0.21% 0% 0% 0% 0.21%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+Remaining Topics: (), (), ()
+
+NF usr27  Gradebook Testers Unknown No School 1.07 %
+
+Topic P A C M L Total
+
+() 0% 1.07% 0% 0% 0% 1.07%
+
+Remaining Topics: (), (), (), (), (), (), ()
+
+NF usr28  Gradebook Testers Unknown No School 1.07 %
+
+Topic P A C M L Total
+
+() 0% 1.07% 0% 0% 0% 1.07%
+
+Remaining Topics: (), (), (), (), (), (), ()
+NF usr33  Gradebook Testers Unknown No School 1.07 %
+
+Topic P A C M L Total
+
+() 0% 1.07% 0% 0% 0% 1.07%
+
+Remaining Topics: (), (), (), (), (), (), ()
+
+NF usr36  Gradebook Testers Unknown No School 1.01 %
+
+Topic P A C M L Total
+
+() 0% 0.18% 0% 0% 0% 0.18%
+
+() 0% 0.83% 0% 0% 0% 0.83%
+
+Remaining Topics: (), (), (), (), (), ()
+
+NF usr26  Gradebook Testers Unknown No School 0.89 %
+
+Topic P A C M L Total
+
+() 0% 0.89% 0% 0% 0% 0.89%
+
+Remaining Topics: (), (), (), (), (), (), ()
+
+NF usr32  Gradebook Testers Unknown No School 0.89 %
+
+Topic P A C M L Total
+
+() 0% 0.89% 0% 0% 0% 0.89%
+
+Remaining Topics: (), (), (), (), (), (), ()
+
+NF usr23  Gradebook Testers Unknown No School 0.71 %
+
+Topic P A C M L Total
+
+() 0% 0.71% 0% 0% 0% 0.71%
+
+Remaining Topics: (), (), (), (), (), (), ()
+
+NF usr38  Gradebook Testers Unknown No School 0.64 %
+
+Topic P A C M L Total
+
+() 0% 0.18% 0% 0% 0% 0.18%
+
+() 0% 0.21% 0% 0% 0% 0.21%
+
+() 0% 0.25% 0% 0% 0% 0.25%
+
+Remaining Topics: (), (), (), (), ()
+
+NF usr19  Gradebook Testers Unknown No School 0.54 %
+
+Topic P A C M L Total
+
+() 0% 0.54% 0% 0% 0% 0.54%
+
+Remaining Topics: (), (), (), (), (), (), ()
+
+NF usr35  Gradebook Testers Unknown No School 0.39 %
+Topic P A C M L Total
+() 0% 0.18% 0% 0% 0% 0.18%
+() 0% 0.21% 0% 0% 0% 0.21%
+
+Remaining Topics: (), (), (), (), (), ()
+
+NF usr22  Gradebook Testers Unknown No School 0.36 %
+
+Topic P A C M L Total
+
+() 0% 0.36% 0% 0% 0% 0.36%
+
+Remaining Topics: (), (), (), (), (), (), ()
+
+NF usr24  Gradebook Testers Unknown No School 0.36 %
+
+Topic P A C M L Total
+
+() 0% 0.36% 0% 0% 0% 0.36%
+
+Remaining Topics: (), (), (), (), (), (), ()
+
+NF usr25  Gradebook Testers Unknown No School 0.36 %
+
+Topic P A C M L Total
+
+() 0% 0.36% 0% 0% 0% 0.36%
+
+Remaining Topics: (), (), (), (), (), (), ()
+
+NF usr31  Gradebook Testers Unknown No School 0.36 %
+
+Topic P A C M L Total
+
+() 0% 0.36% 0% 0% 0% 0.36%
+
+Remaining Topics: (), (), (), (), (), (), ()
+
+NF usr17  Gradebook Testers Unknown No School 0.18 %
+
+Topic P A C M L Total
+
+() 0% 0.18% 0% 0% 0% 0.18%
+
+Remaining Topics: (), (), (), (), (), (), ()
+
+NF usr18  Gradebook Testers Unknown No School 0.18 %
+
+Topic P A C M L Total
+
+() 0% 0.18% 0% 0% 0% 0.18%
+
+Remaining Topics: (), (), (), (), (), (), ()
+
+NF usr20  Gradebook Testers Unknown No School 0.18 %
+Topic P A C M L Total
+() 0% 0.18% 0% 0% 0% 0.18%
+
+Remaining Topics: (), (), (), (), (), (), ()
+
+NF usr21         Gradebook Testers Unknown No School 0.18 %
+
+Topic P A C M L Total
+
+() 0% 0.18% 0% 0% 0% 0.18%
+
+Remaining Topics: (), (), (), (), (), (), ()
+
+NF usr30         Gradebook Testers Unknown No School 0.18 %
+
+Topic P A C M L Total
+
+() 0% 0.18% 0% 0% 0% 0.18%
+
+Remaining Topics: (), (), (), (), (), (), ()
+
+Blended Leraning Course (Finalized) (Avg: 1.43 %)
+
+Name Cohort Township School Progress
+
+Admin2 -         Unknown No School 1.43 %
+
+Topic P A C M L Total
+
+() 0% 1.43% 0% 0% 0% 1.43%
+
+Test Area Course for CA (Avg: 0.61 %)
+
+Name             Cohort                Township           School            Progress
+teststudent3     -                     Unknown            No School         0.61 %
+
+          Topic          A                    P        C      S          F  Total
+
+Thuzar lesson1   0.61%                 0%          0%     0%         0%     0.61%
+
+Remaining Topics: Topic 0, Topic 1, Topic 2, Topic 3, Topic 4, TDL, Topic 7,   (), Lesson 10, Lesson 11, AMH
+
