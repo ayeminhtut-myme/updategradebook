@@ -1,37 +1,62 @@
 import { CheckCircle2, Database, Gauge, Layers, Timer, TrendingUp, UserCheck } from 'lucide-react'
-import { levelGroups, overallAverage, passSummary, scanMeta } from '@/lib/report-data'
+import {
+  computePassSummary,
+  levelGroups,
+  overallAverage,
+  passSummary,
+  progressBucketsFor,
+  progressDistribution,
+  scanMeta,
+  weightedAverage,
+  type Course,
+  type PassSummary,
+  type ProgressBucket,
+} from '@/lib/report-data'
 import { ProgressDistribution } from '@/components/progress-distribution'
 
-const courseCount = levelGroups.flatMap((g) => g.courses).length
+export function ScanStatus({ courses, scopeLabel }: { courses?: Course[]; scopeLabel?: string }) {
+  // When a course pool is passed (e.g. the teacher-scoped view), every stat is
+  // computed from just those courses; otherwise site-wide numbers are shown.
+  const scoped = courses !== undefined
+  const scopedCourses = courses ?? levelGroups.flatMap((g) => g.courses)
+  const learners = scoped
+    ? scopedCourses.reduce((n, c) => n + c.students.length, 0)
+    : scanMeta.activeLearners
+  const registered = scoped ? learners : scanMeta.totalStudents
+  const average = scoped ? weightedAverage(scopedCourses) : overallAverage
+  const summary: PassSummary = scoped ? computePassSummary(scopedCourses) : passSummary
+  const buckets: ProgressBucket[] = scoped
+    ? progressBucketsFor(scopedCourses.flatMap((c) => c.students))
+    : progressDistribution
+  const courseCount = scopedCourses.length
 
-const stats = [
-  {
-    icon: Layers,
-    label: 'လက်ရှိလေ့လာနေသူများ',
-    value: scanMeta.activeLearners.toString(),
-    sub: `${scanMeta.totalStudents.toLocaleString()} ဦး မှတ်ပုံတင်ထားသည်`,
-  },
-  {
-    icon: Gauge,
-    label: 'စုစုပေါင်း အောင်မြင်တိုးတက်မှုအခြေအနေ',
-    value: `${overallAverage}%`,
-    sub: `across ${courseCount} courses`,
-  },
-  {
-    icon: Timer,
-    label: 'မှတ်တမ်းရယူရန်ကြာခဲ့သောအချိန်',
-    value: `${scanMeta.loadingSeconds.toFixed(3)}s`,
-    sub: `${scanMeta.renderedRecords} records`,
-  },
-  {
-    icon: Database,
-    label: 'မှတ်တမ်းရယူခဲ့သည့် အမြန်နှုန်း',
-    value: `${scanMeta.elapsedSeconds}s`,
-    sub: 'last scan elapsed',
-  },
-]
+  const stats = [
+    {
+      icon: Layers,
+      label: 'လက်ရှိလေ့လာနေသူများ',
+      value: learners.toString(),
+      sub: `${registered.toLocaleString()} ဦး မှတ်ပုံတင်ထားသည်`,
+    },
+    {
+      icon: Gauge,
+      label: 'စုစုပေါင်း အောင်မြင်တိုးတက်မှုအခြေအနေ',
+      value: `${average}%`,
+      sub: `across ${courseCount} courses`,
+    },
+    {
+      icon: Timer,
+      label: 'မှတ်တမ်းရယူရန်ကြာခဲ့သောအချိန်',
+      value: `${scanMeta.loadingSeconds.toFixed(3)}s`,
+      sub: `${scanMeta.renderedRecords} records`,
+    },
+    {
+      icon: Database,
+      label: 'မှတ်တမ်းရယူခဲ့သည့် အမြန်နှုန်း',
+      value: `${scanMeta.elapsedSeconds}s`,
+      sub: 'last scan elapsed',
+    },
+  ]
 
-export function ScanStatus() {
   return (
     <section aria-label="Scan status" className="mb-6">
       <div className="border-border bg-card overflow-hidden rounded-xl border">
@@ -40,8 +65,13 @@ export function ScanStatus() {
             <CheckCircle2 className="size-3.5" />
             စစ်ဆေးမှုပြီးဆုံး
           </span>
+          {scopeLabel && (
+            <span className="bg-primary/10 text-primary font-myanmar rounded px-1.5 py-0.5 text-[11px] font-medium">
+              {scopeLabel}
+            </span>
+          )}
           <span className="text-muted-foreground text-[12px]">
-            <span className="num text-foreground font-medium">{scanMeta.activeLearners}</span>{' '}
+            <span className="num text-foreground font-medium">{learners}</span>{' '}
             ဦး တွေ့ရှိသည်
           </span>
           <span className="text-muted-foreground num ml-auto text-[11.5px]">
@@ -63,11 +93,11 @@ export function ScanStatus() {
                 </span>
               </dt>
               <dd className="text-success num mt-1.5 text-[22px] leading-none font-semibold tracking-tight">
-                {passSummary.passedStudents}
+                {summary.passedStudents}
                 <span className="text-muted-foreground ml-1 text-[13px] font-medium">ဦး</span>
               </dd>
               <dd className="text-muted-foreground num mt-1 text-[11px]">
-                ဘာသာရပ် {passSummary.passedCourses} ခုတွင် အောင်မြင်
+                ဘာသာရပ် {summary.passedCourses} ခုတွင် အောင်မြင်
               </dd>
             </div>
           </div>
@@ -84,11 +114,11 @@ export function ScanStatus() {
                 </span>
               </dt>
               <dd className="text-warning num mt-1.5 text-[22px] leading-none font-semibold tracking-tight">
-                {passSummary.progressingStudents}
+                {summary.progressingStudents}
                 <span className="text-muted-foreground ml-1 text-[13px] font-medium">ဦး</span>
               </dd>
               <dd className="text-muted-foreground num mt-1 text-[11px]">
-                ဘာသာရပ် {passSummary.progressingCourses} ခုတွင် ဆက်လက်လေ့လာဆဲ
+                ဘာသာရပ် {summary.progressingCourses} ခုတွင် ဆက်လက်လေ့လာဆဲ
               </dd>
             </div>
           </div>
@@ -109,7 +139,7 @@ export function ScanStatus() {
           ))}
         </dl>
 
-        <ProgressDistribution />
+        <ProgressDistribution summary={summary} buckets={buckets} />
       </div>
     </section>
   )

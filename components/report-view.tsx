@@ -1,17 +1,28 @@
 'use client'
 
-import { User } from 'lucide-react'
+import { useState } from 'react'
+import { RotateCcw, SearchX, User } from 'lucide-react'
 import { LevelSection } from '@/components/level-section'
+import { ManagerRegionMap } from '@/components/manager-region-map'
 import { ProgressMeter } from '@/components/progress-meter'
 import { ReportSidebar } from '@/components/report-sidebar'
 import { RoleProfileMenu } from '@/components/role-profile'
 import { ScanStatus } from '@/components/scan-status'
+import { SchoolDetailView } from '@/components/school-detail-view'
 import { useRole } from '@/components/role-provider'
 import {
   allStudents,
+  applyLearnerVisibility,
+  emptyFilters,
+  getCoursesForTeacher,
+  groupCoursesByLevel,
   levelGroups,
+  matchingCourses,
+  regionCourses,
   OWN_STUDENT_ID,
   PASS_THRESHOLD,
+  type FilterFacet,
+  type FilterUiState,
   type LevelGroup,
 } from '@/lib/report-data'
 import { cn } from '@/lib/utils'
@@ -83,18 +94,69 @@ function OwnResultSummary() {
   )
 }
 
+// Shown when the cascading filters match no course at all.
+function EmptyResults({ onReset }: { onReset: () => void }) {
+  return (
+    <div className="border-border bg-card flex flex-col items-center gap-2 rounded-xl border px-6 py-10 text-center">
+      <span className="bg-surface text-muted-foreground flex size-10 items-center justify-center rounded-full">
+        <SearchX className="size-5" />
+      </span>
+      <p className="text-foreground font-myanmar text-[13px] font-semibold">
+        ရွေးချယ်မှုနှင့် ကိုက်ညီသော ရလဒ် မတွေ့ပါ
+      </p>
+      <p className="text-muted-foreground font-myanmar text-[11.5px] leading-relaxed">
+        အခြား အတန်း / ဘာသာရပ် / ဆရာ ရွေးချယ်ကြည့်ပါ။
+      </p>
+      <button
+        type="button"
+        onClick={onReset}
+        className="text-primary hover:bg-accent font-myanmar mt-1 inline-flex items-center gap-1.5 rounded-md px-2.5 py-1.5 text-[12px] font-medium transition-colors"
+      >
+        <RotateCcw className="size-3.5" />
+        နဂိုအတိုင်း ပြန်လည်သတ်မှတ်မည်
+      </button>
+    </div>
+  )
+}
+
 export function ReportView() {
   const { profile } = useRole()
   const can = profile.can
+  const [filterState, setFilterState] = useState<FilterUiState>({
+    facets: emptyFilters,
+    activeOnly: true,
+  })
+  const [selectedSchoolId, setSelectedSchoolId] = useState<string | null>(null)
+  const isRegionalManager = profile.role === 'manager'
 
-  const groups = can.ownResultOnly ? ownResultGroups() : levelGroups
+  // Teacher accounts (demo: YaOoNaTER01) only ever see their own world — the
+  // filter pool, the filter options themselves and the result pane are all
+  // scoped to the courses that teacher actually teaches.
+  const isTeacher = profile.role === 'teacher'
+  const teacherPool =
+    isTeacher && profile.demoUser ? getCoursesForTeacher(profile.demoUser) : undefined
+  const pool = teacherPool ?? regionCourses
+  const hiddenFacets: FilterFacet[] | undefined = isTeacher ? ['teachers'] : undefined
+
+  // Cascading filters drive the result pane: facet matches first, then the
+  // တိုးတက်မှုရှိသော လေ့လာသူများသာ toggle trims each course's roster.
+  const matchedCourses = matchingCourses(filterState.facets, pool)
+  const shownCourses = applyLearnerVisibility(matchedCourses, filterState.activeOnly)
+  const filteredGroups = groupCoursesByLevel(shownCourses)
+  const activeSchoolIds = new Set(matchedCourses.map((c) => c.schoolId ?? ''))
+
+  const groups = can.ownResultOnly ? ownResultGroups() : filteredGroups
+
+  function resetFilters() {
+    setFilterState({ facets: emptyFilters, activeOnly: true })
+  }
 
   return (
     <div className="mx-auto max-w-[1400px] px-4 py-6 lg:px-6">
       {/* Profile switcher — top right of the result pane */}
       <div className="mb-5 flex items-center justify-between gap-3">
-        <p className="text-white/70 font-myanmar hidden truncate text-[11.5px] sm:block">
-          လုပ်ဆောင်ခွင့်: <span className="text-white">{profile.hintMm}</span>
+        <p className="text-muted-foreground font-myanmar hidden truncate text-[11.5px] sm:block">
+          လုပ်ဆောင်ခွင့်: <span className="text-foreground">{profile.hintMm}</span>
         </p>
         <RoleProfileMenu />
       </div>
@@ -106,12 +168,32 @@ export function ReportView() {
             aria-label="Report controls"
             className="scrollbar-thin-green w-full shrink-0 lg:sticky lg:top-20 lg:max-h-[calc(100vh-5rem)] lg:w-[400px] lg:overflow-y-auto lg:pr-2"
           >
-            <ReportSidebar can={can} />
+            <ReportSidebar
+              can={can}
+              filterState={filterState}
+              onFilterStateChange={setFilterState}
+              pool={pool}
+              hiddenFacets={hiddenFacets}
+            />
           </aside>
         )}
 
         <main className="min-w-0 flex-1">
-          {can.ownResultOnly ? (
+          {isRegionalManager ? (
+            // Regional manager (SAGACR02): a game map of his region's schools
+            // first, drilling down into the standard detail design per school.
+            // Filters dim non-matching schools and narrow each school's courses.
+            selectedSchoolId ? (
+              <SchoolDetailView
+                schoolId={selectedSchoolId}
+                filters={filterState.facets}
+                onResetFilters={resetFilters}
+                onBack={() => setSelectedSchoolId(null)}
+              />
+            ) : (
+              <ManagerRegionMap onSelect={setSelectedSchoolId} activeSchoolIds={activeSchoolIds} />
+            )
+          ) : can.ownResultOnly ? (
             <>
               <OwnResultSummary />
               {groups.map((group, i) => (
@@ -124,19 +206,26 @@ export function ReportView() {
             </>
           ) : (
             <>
-              <ScanStatus />
+              <ScanStatus
+                courses={isTeacher ? matchedCourses : undefined}
+                scopeLabel={isTeacher && profile.demoUser ? `ဆရာ ${profile.demoUser}` : undefined}
+              />
 
-              {groups.map((group, i) => (
-                <LevelSection
-                  key={group.id}
-                  group={group}
-                  openFirstCourse={i === levelGroups.length - 1}
-                />
-              ))}
+              {filteredGroups.length === 0 ? (
+                <EmptyResults onReset={resetFilters} />
+              ) : (
+                filteredGroups.map((group, i) => (
+                  <LevelSection
+                    key={group.id}
+                    group={group}
+                    openFirstCourse={i === filteredGroups.length - 1}
+                  />
+                ))
+              )}
             </>
           )}
 
-          <p className="text-white/60 border-white/25 mt-8 border-t pt-4 text-[11.5px]">
+          <p className="text-muted-foreground border-border mt-8 border-t pt-4 text-[11.5px]">
             myME Box LMS · Learning progress report mockup. Data shown is sample data.
           </p>
         </main>

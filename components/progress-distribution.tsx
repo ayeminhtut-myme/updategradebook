@@ -1,4 +1,4 @@
-import { passSummary, progressDistribution } from '@/lib/report-data'
+import type { PassSummary, ProgressBucket } from '@/lib/report-data'
 import { cn } from '@/lib/utils'
 
 const toneClass = {
@@ -12,8 +12,14 @@ const LABEL_SPACE = 20
 
 const ticks = [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
 
-export function ProgressDistribution() {
-  const maxCount = Math.max(...progressDistribution.map((b) => b.count), 1)
+export function ProgressDistribution({
+  summary,
+  buckets,
+}: {
+  summary: PassSummary
+  buckets: ProgressBucket[]
+}) {
+  const maxCount = Math.max(...buckets.map((b) => b.count), 1)
 
   return (
     <div className="border-border border-t px-4 py-4">
@@ -22,13 +28,13 @@ export function ProgressDistribution() {
           တိုးတက်မှုအလိုက် ကျောင်းသားအရေအတွက်
         </h3>
         <span className="text-muted-foreground num text-[11px]">
-          စုစုပေါင်း {passSummary.totalStudents} ဦး
+          စုစုပေါင်း {summary.totalStudents} ဦး
         </span>
       </div>
 
       <div
         role="img"
-        aria-label={`တိုးတက်မှု ${passSummary.threshold}% အမှတ်နှင့် ကျောင်းသားအရေအတွက် ဖြန့်ကျက်မှု`}
+        aria-label={`တိုးတက်မှု ${summary.threshold}% အမှတ်နှင့် ကျောင်းသားအရေအတွက် ဖြန့်ကျက်မှု`}
         className="relative h-40"
       >
         {/* horizontal gridlines */}
@@ -46,16 +52,16 @@ export function ProgressDistribution() {
         <div
           aria-hidden="true"
           className="border-primary/50 absolute bottom-0 top-0 border-l border-dashed"
-          style={{ left: `${passSummary.threshold}%` }}
+          style={{ left: `${summary.threshold}%` }}
         >
           <span className="text-primary bg-card absolute top-0 left-1 rounded px-1 text-[9.5px] leading-tight font-medium whitespace-nowrap">
-            အောင်မြင်အမှတ် {passSummary.threshold}%
+            အောင်မြင်အမှတ် {summary.threshold}%
           </span>
         </div>
 
         {/* bars — one per 10% bucket, count labelled above each bar */}
         <div className="absolute inset-0 flex items-stretch">
-          {progressDistribution.map((b) => {
+          {buckets.map((b) => {
             const ratio = (b.count / maxCount).toFixed(4)
             return (
               <div

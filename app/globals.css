@@ -56,9 +56,8 @@
 
 :root {
   color-scheme: light;
-  /* Report canvas — deep dark-green so the white cards/forms stand out
-     clearly (a touch darker than CSS `darkgreen` #006400). */
-  --background: oklch(0.42 0.105 152);
+  /* Soft sky-blue canvas so the white cards/forms stand out clearly. */
+  --background: oklch(0.89 0.05 235);
   --foreground: oklch(0.235 0.018 258);
   --card: oklch(1 0 0);
   --card-foreground: oklch(0.235 0.018 258);
@@ -98,8 +97,7 @@
 
 .dark {
   color-scheme: dark;
-  /* Same green identity as the light theme, just darker for dark mode. */
-  --background: oklch(0.21 0.03 152);
+  --background: oklch(0.185 0.015 258);
   --foreground: oklch(0.96 0.004 255);
   --card: oklch(0.222 0.017 258);
   --card-foreground: oklch(0.96 0.004 255);

@@ -5,12 +5,34 @@ import { LearnerScanner } from '@/components/learner-scanner'
 import { ReportFilters } from '@/components/report-filters'
 import { SchedulePanel } from '@/components/schedule-panel'
 import { RecordsPanel } from '@/components/records-panel'
-import { savedRecords, scanMeta, type RoleCapabilities } from '@/lib/report-data'
+import {
+  hasActiveFilters,
+  matchingCourses,
+  savedRecords,
+  scanMeta,
+  type Course,
+  type FilterFacet,
+  type FilterUiState,
+  type RoleCapabilities,
+} from '@/lib/report-data'
 
 // Each panel renders only when the active role profile allows it — see
 // `roleProfiles` in lib/report-data.ts (matches the permission matrix):
 // manager sees all, teacher only filters, student nothing from here.
-export function ReportSidebar({ can }: { can: RoleCapabilities }) {
+export function ReportSidebar({
+  can,
+  filterState,
+  onFilterStateChange,
+  pool,
+  hiddenFacets = [],
+}: {
+  can: RoleCapabilities
+  filterState: FilterUiState
+  onFilterStateChange: (next: FilterUiState) => void
+  /** Courses the viewer is allowed to see — drives the filter options */
+  pool: Course[]
+  hiddenFacets?: FilterFacet[]
+}) {
   return (
     <div className="space-y-2.5">
       {can.permissions && (
@@ -40,10 +62,19 @@ export function ReportSidebar({ can }: { can: RoleCapabilities }) {
           icon={<SlidersHorizontal className="size-4" />}
           title="မိမိစိတ်ကြိုက်"
           titleMm="ရှာဖွေကြည့်ရှုမည်"
-          meta="All time"
+          meta={
+            hasActiveFilters(filterState.facets)
+              ? `${matchingCourses(filterState.facets, pool).length} matched`
+              : 'All time'
+          }
           defaultOpen
         >
-          <ReportFilters />
+          <ReportFilters
+            value={filterState}
+            onChange={onFilterStateChange}
+            pool={pool}
+            hiddenFacets={hiddenFacets}
+          />
         </SidePanel>
       )}
 

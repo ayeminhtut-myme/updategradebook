@@ -15,13 +15,13 @@ export function LevelSection({
       <div className="mb-2.5 flex items-baseline gap-2.5">
         <h2
           id={`${group.id}-heading`}
-          className="text-white text-[13px] font-semibold tracking-wide uppercase"
+          className="text-foreground text-[13px] font-semibold tracking-wide uppercase"
         >
           {group.label}
         </h2>
-        <span className="text-white/70 font-myanmar text-[11.5px]">{group.labelMm}</span>
-        <span className="bg-white/25 h-px flex-1" aria-hidden="true" />
-        <span className="text-white/70 num shrink-0 text-[11.5px]">
+        <span className="text-muted-foreground font-myanmar text-[11.5px]">{group.labelMm}</span>
+        <span className="bg-border h-px flex-1" aria-hidden="true" />
+        <span className="text-muted-foreground num shrink-0 text-[11.5px]">
           {group.courses.length} {group.courses.length === 1 ? 'course' : 'courses'} ·{' '}
           {learners} learners
         </span>

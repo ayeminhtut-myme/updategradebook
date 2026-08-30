@@ -68,12 +68,13 @@ export function RoleProfileMenu() {
           <ActiveIcon className="size-4" />
         </span>
 
+        {/* Username on top, account type (labelMm) underneath */}
         <span className="min-w-0 text-left">
-          <span className="text-foreground font-myanmar block truncate text-[12.5px] leading-tight font-medium">
-            {profile.labelMm}
+          <span className="text-foreground num block truncate text-[12.5px] leading-tight font-medium">
+            {profile.demoUser ?? profile.labelEn}
           </span>
-          <span className="text-muted-foreground num block truncate text-[10.5px] leading-tight">
-            {profile.demoUser ? `${profile.labelEn} · ${profile.demoUser}` : profile.labelEn}
+          <span className="text-muted-foreground font-myanmar block truncate text-[10.5px] leading-tight">
+            {profile.labelMm}
           </span>
         </span>
 
@@ -124,11 +125,11 @@ export function RoleProfileMenu() {
 
                 <span className="min-w-0 flex-1">
                   <span className="flex items-baseline gap-1.5">
-                    <span className="text-foreground font-myanmar truncate text-[12.5px] font-medium">
-                      {p.labelMm}
+                    <span className="text-foreground num truncate text-[12.5px] font-medium">
+                      {p.demoUser ?? p.labelEn}
                     </span>
-                    <span className="text-muted-foreground num truncate text-[10.5px]">
-                      {p.demoUser ? `${p.labelEn} · ${p.demoUser}` : p.labelEn}
+                    <span className="text-muted-foreground font-myanmar truncate text-[10.5px]">
+                      {p.labelMm}
                     </span>
                   </span>
                   <span className="text-muted-foreground font-myanmar mt-0.5 block text-[11px] leading-relaxed">
